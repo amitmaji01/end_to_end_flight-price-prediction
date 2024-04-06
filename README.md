@@ -2,7 +2,7 @@
 
 
 ### step 01. 
-i.create enviroment 
+i.create enviroment\n
 --->conda create -n flight python=3.8 -y
 ii.activate that enviroment
 --->conda activate flight
