@@ -1,8 +1,8 @@
 # end_to_end_flight-price-prediction
 
 ```
-```bash
-### day 01. 
+```
+##day 01. 
 i.create enviroment
 --->conda create -n flight python=3.8 -y
 ii.activate that enviroment
@@ -17,6 +17,6 @@ i.create the requirements.txt
 ii.create setup.py file 
 --->There 
 
-```
+
 
 ```
