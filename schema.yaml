@@ -1,0 +1,18 @@
+COLUMNS:
+  Airline: object
+  Date_of_Journey: object
+  Source: object
+  Destination: object
+  Route: object
+  Dep_Time: object
+  Arrival_Time: object
+  Duration: object
+  Total_Stops: object
+  Additional_Info: object
+
+TARGET_COLUMN:
+  name: Price 
+
+
+
+
